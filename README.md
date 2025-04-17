@@ -8,12 +8,11 @@ From the temperate woodlands of Harvard Forest to the tropical mangroves of Pala
 
 Feel free to explore, use, and connect!
 
----
 
 ## Visuals
 TBD.
 
-
+---
 ## 🎶 Our Theme Song
 🎧 [**Click here to listen**](https://drive.google.com/file/d/1Zg-VZyGYSbMQ--5iUl5PbKFdScRg1-03/view?usp=sharing)
 
@@ -49,4 +48,4 @@ Of stories the forest used to hide.
 - Richard MacKenzie – Research Collaborator, U.S. Forest Service  
 - [Jan van Aardt](https://www.rit.edu/directory/jvacis-jan-van-aardt) – Professor & Lab Director, RIT
 
----
+
