@@ -10,9 +10,16 @@ Feel free to explore, use, and connect!
 
 
 ## Visuals
-TBD.
+<img src="imgs/harvard_forest_virtual_ball.gif" alt="harvard_forest_virtual_ball" width="400px" />
 
 ---
+
+## 🎮 Have Fun with a LiDAR Game
+click to play 👉 https://fz-rit.github.io/echoforest/👈  
+<img src="imgs/game_screenshot.png" alt="game_screenshot" width="200px" />
+
+
+
 ## 🎶 Our Theme Song
 🎧 [**Click here to listen**](https://drive.google.com/file/d/1Zg-VZyGYSbMQ--5iUl5PbKFdScRg1-03/view?usp=sharing)
 
