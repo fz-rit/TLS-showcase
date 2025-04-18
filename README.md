@@ -47,7 +47,7 @@ Of stories the forest used to hide.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - [Fei Zhang](https://www.linkedin.com/in/fei-zh/) – Postdoctoral Researcher, RIT  
 - [Rob Chancia](https://www.rit.edu/directory/roccis-rob-chancia) – Research Scientist, RIT  
@@ -56,3 +56,6 @@ Of stories the forest used to hide.
 - [Jan van Aardt](https://www.rit.edu/directory/jvacis-jan-van-aardt) – Professor & Lab Director, RIT
 
 
+## Send Us a Message
+Have questions, feedback, or ideas? We’re always looking to connect with fellow researchers, students, and enthusiasts!  
+[📬 Click here to send us a message](https://github.com/fz-rit/TLS-showcase/contact.html) 👈
