@@ -58,4 +58,4 @@ Of stories the forest used to hide.
 
 ## Send Us a Message
 Have questions, feedback, or ideas? We’re always looking to connect with fellow researchers, students, and enthusiasts!  
-[📬 Click here to send us a message](https://github.com/fz-rit/TLS-showcase/contact.html) 👈
+📬 Click here to [Send us a message](https://github.com/fz-rit/TLS-showcase/contact.html) 👈
