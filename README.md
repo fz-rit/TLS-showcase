@@ -4,13 +4,30 @@ Welcome to our project! This repository features research from Dr. Jan van Aardt
 
 From the temperate woodlands of Harvard Forest to the tropical mangroves of Palau, we study forest structure—canopy, stems, understory, ground, and more—to support ecological monitoring, modeling, and conservation.
 
-**Our goal:** Make forests measurable, mappable, and meaningful using cutting-edge 3D technologies.
+Our goal: Make forests measurable, mappable, and meaningful using cutting-edge 3D technologies.
 
 Feel free to explore, use, and connect!
 
 
 ## Visuals
-<img src="imgs/harvard_forest_virtual_ball.gif" alt="harvard_forest_virtual_ball" width="400px" />
+### Spherical Scan Pattern  
+<img src="imgs/spherical ball.gif" alt="Schematic spherical projection" width="400px" />  
+*Schematic spherical projection of the LiDAR scan pattern, showing the azimuth‑elevation grid used for unwrapping the 3D point cloud.*
+
+---
+
+### **Harvard Forest Virtual Sphere**  
+<img src="imgs/harvard_forest_virtual_ball.gif" alt="Harvard Forest spherical visualization" width="400px" />  
+*Virtual sphere reconstructed by back‑projecting 2D spherical feature maps (roughness = R, intensity = G, range = B) into 3D, showcasing fine structural details of the forest canopy and undergrowth.*
+
+
+
+---
+
+### **Palau Mangrove Virtual Sphere**  
+<img src="imgs/palau_6962_ICA_rgb_0_1_2_.gif" alt="Palau mangrove spherical visualization" width="400px" />  
+*Virtual sphere reconstructed by back‑projecting PCA‑derived pseudo‑RGB spherical maps into 3D, enhancing structural contrasts in the mangrove root network.*
+
 
 ---
 
