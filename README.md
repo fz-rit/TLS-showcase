@@ -15,7 +15,7 @@ Feel free to explore, use, and connect!
 ---
 
 ## 🎮 Have Fun with a LiDAR Game
-click to play 👉 https://fz-rit.github.io/echoforest/👈  
+click to play 👉 https://fz-rit.github.io/echoforest 👈  
 <img src="imgs/game_screenshot.png" alt="game_screenshot" width="200px" />
 
 
