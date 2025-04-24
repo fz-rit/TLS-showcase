@@ -37,7 +37,7 @@ click to play 👉 https://fz-rit.github.io/echoforest 👈
 
 
 
-## 🎶 Our Theme Song
+## 🎶 A LiDAR-Themed Song
 🎧 [**Click here to listen**](https://drive.google.com/file/d/1Zg-VZyGYSbMQ--5iUl5PbKFdScRg1-03/view?usp=sharing)
 
 **Through the Laser’s Eye**
