@@ -6,7 +6,7 @@ From the temperate woodlands of Harvard Forest to the tropical mangroves of Pala
 
 Our goal: Make forests measurable, mappable, and meaningful using cutting-edge 3D technologies.
 
-Feel free to explore, use, and connect!
+Feel free to explore and connect!
 
 
 ## Visuals
