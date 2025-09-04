@@ -11,8 +11,8 @@ Feel free to explore and connect!
 
 ## Visuals
 ### Spherical Scan Pattern  
-<img src="imgs/spherical ball.gif" alt="Schematic spherical projection" width="400px" />  
-*Schematic spherical projection of the LiDAR scan pattern, showing the azimuth‑elevation grid used for unwrapping the 3D point cloud.*
+<img src="imgs/spherical ball.gif" alt="Schematic virtual sphere" width="400px" />  
+*Schematic plot of the LiDAR scan pattern in 3D.*
 
 ---
 
